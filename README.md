@@ -25,7 +25,7 @@ You can compile the software as follows,
 cc -o model5_connect_silent model5_connect_silent.c model5_port.c -lm -lcurl
 ```
 
-*Model T instruments*
+[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
 ```bash
 cc -o modelT_connect_silent modelT_connect_silent.c modelT_port.c -lm -lcurl 
 ```
