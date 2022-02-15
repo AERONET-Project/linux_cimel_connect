@@ -1,3 +1,6 @@
+<img align="right" width="100" height="100" src="https://cdn.iconscout.com/icon/free/png-256/linux-8-202409.png"><br/>
+
+
 # linux_cimel_connect
 Linux software to retrieve data from a Cimel sun photometer and upload to NASA servers for processing.
 
