@@ -33,7 +33,7 @@ cc -o model5_connect_silent model5_connect_silent.c model5_port.c -lm -lcurl
 cc -o modelT_connect_silent modelT_connect_silent.c modelT_port.c -lm -lcurl 
 ```
 ## Running the Software ##
-The program will create backup files at the directory $HOME/backup, therefore a backup directory must exist prior to starting the program.
+The program will create backup files at the directory `$HOME/backup`, therefore a backup directory must exist prior to starting the program.
 ```bash
 mkdir $HOME/backup
 ```
