@@ -62,4 +62,4 @@ You can specify a different backup directory by starting the program as:
 ./modelT_connect_silent USB0  dir=BACKUP_NAME
 ```
 
-Where BACKUP_NAME is the full path to other directory. 
+Where `BACKUP_NAME` is the full path to other directory. 
