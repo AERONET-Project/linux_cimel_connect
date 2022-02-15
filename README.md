@@ -33,6 +33,11 @@ cc -o model5_connect_silent model5_connect_silent.c model5_port.c -lm -lcurl
 cc -o modelT_connect_silent modelT_connect_silent.c modelT_port.c -lm -lcurl 
 ```
 ## Running the Software ##
+The program will create backup files at the directory $HOME/backup, therefore a backup directory must exist prior to starting the program.
+```bash
+mkdir $HOME/backup
+```
+
 To run the software you will need to specify the port the Cimel is connected to on your Linux device. This is done by identifying the device path. To determine the device path utiize the following commands:
 ```bash
 ls /dev/ttyUSB* && ls /dev /ttyS*
@@ -51,3 +56,10 @@ If you are using a UART connection,
 ```bash
 ./modelT_connect_silent S0 #For Model T
 ```
+
+You can specify  other backup directory by starting the program as :
+```bash
+./modelT_connect_silent USB0  dir=BACKUP_NAME
+```
+
+Where BACKUP_NAME is the full path to other directory. 
