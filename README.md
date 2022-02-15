@@ -20,7 +20,7 @@ sudo timedatectl set-timezone Etc/UTC
 
 You can compile the software as follows,
 
-*Model 5 instruments*
+[![](https://img.shields.io/badge/Model-5-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
 ```bash
 cc -o model5_connect_silent model5_connect_silent.c model5_port.c -lm -lcurl
 ```
