@@ -57,7 +57,7 @@ If you are using a UART connection,
 ./modelT_connect_silent S0 #For Model T
 ```
 
-You can specify  other backup directory by starting the program as :
+You can specify a different backup directory by starting the program as:
 ```bash
 ./modelT_connect_silent USB0  dir=BACKUP_NAME
 ```
