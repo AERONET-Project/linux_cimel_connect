@@ -20,7 +20,7 @@ Set your time zone to UTC,
 ```bash
 sudo timedatectl set-timezone Etc/UTC
 ```
-# Downloading the software #
+## Downloading and compilig the software ##
 In the top right you can select the drop down Code and select, _download zip_ and put this data on a USB drive to port to your Linux machine
 
 OR
