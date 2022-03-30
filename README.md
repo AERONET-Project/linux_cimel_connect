@@ -30,7 +30,7 @@ From your linux machine run this command with git installed on the system,
 ```bash
 sudo git clone https://github.com/anthony-larosa/linux_cimel_connect
 ```
-You can compile the software as follows,
+Navigate to the linux_cimel_connect directory and can compile the software as follows,
 
 **&#9723; Model 5 &#9723;**
 ```bash
