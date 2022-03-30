@@ -32,12 +32,12 @@ sudo git clone https://github.com/anthony-larosa/linux_cimel_connect
 ```
 You can compile the software as follows,
 
-[![](https://img.shields.io/badge/Model-5-lightgrey?style=for-the-badge)](https://lib.rs/crates/redant)
+** &#9723; Model 5 &#9723; **
 ```bash
 cc -o model5_connect_silent model5_connect_silent.c model5_port.c -lm -lcurl
 ```
 
-[![](https://img.shields.io/badge/Model-T-orange?style=for-the-badge)](https://crates.io/crates/redant)
+** &#x1F536; Model T &#x1F536; **
 ```bash
 cc -o modelT_connect_silent modelT_connect_silent.c modelT_port.c -lm -lcurl 
 ```
