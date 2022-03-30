@@ -25,7 +25,7 @@ In the top right you can select the drop down Code and select, _download zip_ an
 
 OR
 
-From your linux machine run this command with git installed on this system,
+From your linux machine run this command with git installed on the system,
 
 ```bash
 sudo git clone https://github.com/anthony-larosa/linux_cimel_connect
