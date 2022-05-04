@@ -21,7 +21,7 @@ Set your time zone to UTC,
 sudo timedatectl set-timezone Etc/UTC
 ```
 ## Downloading and compiling the software ##
-In the top right you can select the drop down Code and select, _download zip_ and put this data on a USB drive to port to your Linux machine
+On the top right o this webpage you can select the drop down _Code_ and select, _download zip_ and, put this data on a USB drive to port to your Linux machine
 
 OR
 
