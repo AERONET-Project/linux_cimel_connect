@@ -74,6 +74,8 @@ You can specify a different backup directory by starting the program as:
 
 Where `BACKUP_NAME` is the full path to other directory. 
 
-## Questions ##
+## Questions & Suggestions##
+
+It is reccomended to run the program at boot using cron, we leave it to you to manage the software how you prefer.
 
 Please send an email to anthony.d.larosa@nasa.gov
