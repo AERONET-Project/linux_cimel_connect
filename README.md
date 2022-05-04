@@ -57,6 +57,7 @@ dmesg | grep serial
 ```
 This will return a device path: /dev/ttyUSB0, /dev/ttyUSB1, etc. Or you can navigate to tools/ and run the device finder script.
 
+# Examples #
 For example if you are using a USB to Serial adapter you still start the program as
 ```bash
 ./modelT_connect_silent USB0 #For Model T
